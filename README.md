@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Andre4953
+- 👀 I’m interested in idk
+- 🌱 I’m currently learning Kil uhm i mean Help peoples
+- 📫 How to reach me .andre53 on dc
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 1+1=3
