@@ -24,10 +24,6 @@ You can check him out or add him to your server by [clicking here](https://disco
 ### ConvoHub - Chat App
 - **Description:** ConvoHub is a free Discord alternative that is currently being programmed by **3** developers. ConvoHub is expected to be available in the Google Play Store and Apple Store as well as the Microsoft Store by the end of **2025**
 - **Invite Link(Discord-News Bot):** [Invite ConvoHub](https://discord.com/oauth2/authorize?client_id=1255942361599709345)
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre5883&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre5883&layout=compact&theme=dark)
 
 ## 🎮 Fun Facts:
 
