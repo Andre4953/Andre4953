@@ -1,8 +1,8 @@
 # 👋 About Me
 
-Hey there! ![Waving Emoji](https://cdn.discordapp.com/emojis/753595404192579654.gif?size=20&quality=lossless)  
+Hey there! ![Waving Emoji](https://cdn.discordapp.com/emojis/753595404192579654.gif?size=20)  
 I'm **Andre**, a passionate developer who loves building **Discord bots**. I'm currently working on my own bot called **PurseCord**, which is designed to make Discord more fun and interactive with unique commands, games, and much more!  
-You can check him out or add him to your server by [clicking here](https://discord.com/oauth2/authorize?client_id=1274470515158945792&permissions=8&integration_type=0&scope=bot+applications.commands).
+You can check him out [here](https://discord.gg/AvCXfFfw2N) or add him to your server by [clicking here](https://discord.com/oauth2/authorize?client_id=1274470515158945792&permissions=8&integration_type=0&scope=bot+applications.commands).
 
 ## 💬 How to Reach Me:
 - **Discord:** `.andre53` 
@@ -23,7 +23,11 @@ You can check him out or add him to your server by [clicking here](https://disco
 
 ### ConvoHub - Chat App
 - **Description:** ConvoHub is a free Discord alternative that is currently being programmed by **3** developers. ConvoHub is expected to be available in the Google Play Store and Apple Store as well as the Microsoft Store by the end of **2025**
-- **Invite Link(Discord-News Bot):** [Invite ConvoHub](https://discord.com/oauth2/authorize?client_id=1255942361599709345)
+- **Link:** [Invite ConvoHub(News Bot)](https://discord.com/oauth2/authorize?client_id=1255942361599709345)
+
+### NextGen Development - Discord Server
+- **Description:** Join NextGen Development for exclusive insights, expert support, and innovative bots
+- **Link:** [Join Server](https://discord.gg/AvCXfFfw2N) 
 
 ## 🎮 Fun Facts:
 
