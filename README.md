@@ -1,7 +1,3 @@
-Here’s an improved version of your `README.md` for your GitHub profile:
-
----
-
 # 👋 About Me
 
 Hey there! ![Waving Emoji](https://cdn.discordapp.com/emojis/753595404192579654.gif?size=20&quality=lossless)  
