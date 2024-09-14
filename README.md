@@ -19,7 +19,7 @@ You can check him out [here](https://discord.gg/AvCXfFfw2N) or add him to your s
 
 ### PurseCord - Discord Bot
 - **Description:** PurseCord brings interactive features to your Discord server with fun commands, games, and other customizable elements.  
-- **Invite Link:** [Invite PurseCord](https://discord.com/oauth2/authorize?client_id=1274470515158945792&permissions=8&integration_type=0&scope=bot+applications.commands)
+- **Link:** [Invite PurseCord](https://discord.com/oauth2/authorize?client_id=1274470515158945792&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 ### ConvoHub - Chat App
 - **Description:** ConvoHub is a free Discord alternative that is currently being programmed by **3** developers. ConvoHub is expected to be available in the Google Play Store and Apple Store as well as the Microsoft Store by the end of **2025**
